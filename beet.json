@@ -1,0 +1,6 @@
+{
+    "data_pack": {
+        "load": ["src"]
+    },
+    "pipeline": ["custom.generate", "custom.gen_use"]
+}
