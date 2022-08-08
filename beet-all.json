@@ -7,7 +7,8 @@
         "custom.setup_pack",
         "custom.generate",
         "custom.generate_unified_mappings",
-        "custom.generate_scoreboard_hooks",
+        "custom.gen_place_block",
+        "custom.gen_break_block",
         "custom.build_tags"
     ]
 }
