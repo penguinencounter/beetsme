@@ -1,6 +1,7 @@
 {
+    "output": "build",
     "data_pack": {
         "load": ["src"]
     },
-    "pipeline": ["custom.generate", "custom.gen_use"]
+    "pipeline": ["custom.generate", "custom.gen_place_block"]
 }
